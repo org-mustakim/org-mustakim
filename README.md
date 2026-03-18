@@ -16,11 +16,11 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDR3ZnFsYjA1anhicXNpa3RzMTRxMWsyd3RxbnA2bXQ0eHQ3NzB3ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZJbtxjzpXGIDVCPQQS/giphy.gif"  />
+<h2 align="left">Things That I Use and know 😎</h2>
 
 ###
 
-<h2 align="left">Things That I Use and know 😎</h2>
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDR3ZnFsYjA1anhicXNpa3RzMTRxMWsyd3RxbnA2bXQ0eHQ3NzB3ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZJbtxjzpXGIDVCPQQS/giphy.gif"  />
 
 ###
 
@@ -56,11 +56,11 @@
 
 ###
 
-<img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2lmemRtMnZ6NndkY2Qxa3JoODVtMnViNTN5emRzeXgwZDlxZ2Z1ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XYEEvoX0Ub69ZgN9ai/giphy.gif"  />
+<h2 align="right">Things I want to Learn</h2>
 
 ###
 
-<h2 align="right">Things I want to Learn</h2>
+<img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2lmemRtMnZ6NndkY2Qxa3JoODVtMnViNTN5emRzeXgwZDlxZ2Z1ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XYEEvoX0Ub69ZgN9ai/giphy.gif"  />
 
 ###
 
