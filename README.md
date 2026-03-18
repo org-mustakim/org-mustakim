@@ -20,10 +20,6 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDR3ZnFsYjA1anhicXNpa3RzMTRxMWsyd3RxbnA2bXQ0eHQ3NzB3ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZJbtxjzpXGIDVCPQQS/giphy.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
   <img width="17" />
@@ -39,6 +35,10 @@
   <img width="17" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="35" alt="git logo"  />
 </div>
+
+###
+
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDR3ZnFsYjA1anhicXNpa3RzMTRxMWsyd3RxbnA2bXQ0eHQ3NzB3ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZJbtxjzpXGIDVCPQQS/giphy.gif"  />
 
 ###
 
@@ -60,10 +60,6 @@
 
 ###
 
-<img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2lmemRtMnZ6NndkY2Qxa3JoODVtMnViNTN5emRzeXgwZDlxZ2Z1ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XYEEvoX0Ub69ZgN9ai/giphy.gif"  />
-
-###
-
 <div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
   <img width="17" />
@@ -81,6 +77,10 @@
   <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
 </div>
+
+###
+
+<img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2lmemRtMnZ6NndkY2Qxa3JoODVtMnViNTN5emRzeXgwZDlxZ2Z1ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XYEEvoX0Ub69ZgN9ai/giphy.gif"  />
 
 ###
 
@@ -106,9 +106,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+<p align="left"></p>
 
 ###
 
@@ -117,9 +115,15 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="linkedin logo"  />
+  <a href="https://discord.com/channels/@me/1424006676515917831" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="discord logo"  />
+  </a>
+  <a href="mailto:mail.mustakim@yahoo.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/mustakim-abdullah/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
