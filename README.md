@@ -33,9 +33,9 @@
   <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
   <img width="17" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="35" alt="github logo"  />
-  <img width="17" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="35" alt="git logo"  />
+  <img width="17" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="35" alt="github logo"  />
 </div>
 
 ###
